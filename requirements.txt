@@ -1,0 +1,9 @@
+Flask
+flask-monitoringdashboard
+keras==2.15.0
+numpy
+pandas
+plotly
+requests
+sentry-sdk
+tensorflow==2.15.0
